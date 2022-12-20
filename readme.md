@@ -23,7 +23,8 @@ matplotlib and seaborn are libraries for data visualization. matplotlib is a low
 - Udacity_CUSTOMERS_052018.csv - Demographic data for customers of a mail-order company; 191652 (rows) x 369 features (columns).
 - Udacity_MAILOUT_052018_TRAIN.csv - Demographics data for individuals who were targets of a marketing campaign; 42982 persons(rows) x 367 columns.
 - Udacity_MAILOUT_052018_TEST.csv - Demographics data for individuals who were targets of a marketing campaign; 42833 persons(rows) x 366 columns).
-Datasets were used by provided by Bertelsmann Arvato Analytics used by permission through Udacity. These files are not included in the repository due to file size and copyright restriction.
+
+Datasets provided by Bertelsmann Arvato Analytics and used by permission through Udacity. These files are not included in the repository due to file size restriction and copyright.
 
 ### Instructions for Running Code
 1. Clone the repository to your local machine
