@@ -5,6 +5,9 @@ In this study, we aimed to identify potential customers for a marketing campaign
 
 We found that the Gradient Boosting classifier had higher accuracy, precision, recall, and F1-score compared to the Random Forest classifier, and identified the top 10 most significant indicators for predicting customer clusters as number of cars in the PLZ8 region, year of birth, and different categories of the CAMEO_DEU_2015 attribute. These findings can help the company target their marketing efforts more effectively and reach their desired audience.
 
+### Data Science Report
+# [Predicting Potential Customers for a Marketing Campaign Using Machine Learning.pdf](https://github.com/brothercast/Udacity-DSNS-Capstone/blob/main/Predicting%20Marketing%20Campaign%20Customers%20using%20Machine%20Learning.pdf)
+
 ### Dependencies
 - **Python 3.x** - A popular programming language for data analysis and scientific computing.
 - **scikit-learn** - A software machine learning library for Python that provides various classification, regression, and clustering algorithms including support vector machines, random forests, gradient boosting, k-means, and DBSCAN. It is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.
