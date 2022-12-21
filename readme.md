@@ -5,11 +5,14 @@ In this study, we aimed to identify potential customers for a marketing campaign
 
 We found that the Gradient Boosting classifier had higher accuracy, precision, recall, and F1-score compared to the Random Forest classifier, and identified the top 10 most significant indicators for predicting customer clusters as number of cars in the PLZ8 region, year of birth, and different categories of the CAMEO_DEU_2015 attribute. These findings can help the company target their marketing efforts more effectively and reach their desired audience.
 
+### Jupyter Notebook
+# - [Arvato Project Notebook.ipynb](https://github.com/brothercast/Udacity-DSNS-Capstone/blob/main/Arvato%20Project%20Workbook.ipynb)
+
 ### Data Science Report
-# [Predicting Potential Customers for a Marketing Campaign Using Machine Learning.pdf](https://github.com/brothercast/Udacity-DSNS-Capstone/blob/main/Predicting%20Marketing%20Campaign%20Customers%20using%20Machine%20Learning.pdf)
+# - [Predicting Potential Customers for a Marketing Campaign Using Machine Learning.pdf](https://github.com/brothercast/Udacity-DSNS-Capstone/blob/main/Predicting%20Marketing%20Campaign%20Customers%20using%20Machine%20Learning.pdf)
 
 ### Medium Article
-# [The Power of Learning and the Data Science Dream](https://medium.com/@anthonio_11149/the-power-of-learning-and-the-data-science-dream-d286ab57213e)
+# - [The Power of Learning and the Data Science Dream](https://medium.com/@anthonio_11149/the-power-of-learning-and-the-data-science-dream-d286ab57213e)
 
 ### Dependencies
 - **Python 3.x** - A popular programming language for data analysis and scientific computing.
