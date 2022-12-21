@@ -8,6 +8,9 @@ We found that the Gradient Boosting classifier had higher accuracy, precision, r
 ### Data Science Report
 # [Predicting Potential Customers for a Marketing Campaign Using Machine Learning.pdf](https://github.com/brothercast/Udacity-DSNS-Capstone/blob/main/Predicting%20Marketing%20Campaign%20Customers%20using%20Machine%20Learning.pdf)
 
+### Medium Article
+# [The Power of Learning and the Data Science Dream](https://medium.com/@anthonio_11149/the-power-of-learning-and-the-data-science-dream-d286ab57213e)
+
 ### Dependencies
 - **Python 3.x** - A popular programming language for data analysis and scientific computing.
 - **scikit-learn** - A software machine learning library for Python that provides various classification, regression, and clustering algorithms including support vector machines, random forests, gradient boosting, k-means, and DBSCAN. It is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.
